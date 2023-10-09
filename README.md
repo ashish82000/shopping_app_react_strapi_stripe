@@ -1,0 +1,1 @@
+# shopping_app_react_strapi_stripe
